@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^2.6.0",
     "element-ui": "^2.4.11",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.10.2",
     "nuxt-user-agent": "^1.2.2",
     "sass-loader": "^8.0.0"
